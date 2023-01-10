@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-sevenc-studio/static/css/main.ab64135a.css",
+    "main.js": "/task-sevenc-studio/static/js/main.1044f2cb.js",
+    "static/js/787.9355d7a8.chunk.js": "/task-sevenc-studio/static/js/787.9355d7a8.chunk.js",
+    "index.html": "/task-sevenc-studio/index.html",
+    "main.ab64135a.css.map": "/task-sevenc-studio/static/css/main.ab64135a.css.map",
+    "main.1044f2cb.js.map": "/task-sevenc-studio/static/js/main.1044f2cb.js.map",
+    "787.9355d7a8.chunk.js.map": "/task-sevenc-studio/static/js/787.9355d7a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab64135a.css",
+    "static/js/main.1044f2cb.js"
+  ]
+}
